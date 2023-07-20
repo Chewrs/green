@@ -5,4 +5,4 @@
 git add .
 
 # Commit with a custom commit message
-git commit -m "Your commit message goes here"
+git commit -m "commit from the commit.sh"
