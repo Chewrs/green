@@ -7,7 +7,7 @@ read -p "Enter your custom commit message: " commit_message
 git add .
 
 # Commit with the custom commit message
-git commit -m "Daily edit: $(date +%Y-%m-%d) - $commit_message"
+git commit -m " $commit_message"
 
 # Push the changes to the remote repository
 git push
