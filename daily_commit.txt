@@ -4,3 +4,4 @@ cherry
 honeydew
 elderberry
 [{"quote": "Life in common among people who love each other is the ideal of happiness.", "author": "George Sand", "category": "happiness"}]
+[{"quote": "Every gift from a friend is a wish for your happiness.", "author": "Richard Bach", "category": "happiness"}]
