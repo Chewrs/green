@@ -1,16 +1,21 @@
 #!/bin/bash
 
 # Change to your project directory
-cd /path/to/your/project
+cd /path/to/daily-commits
 
-# Get the commit message from the user input in the text file
-read -r commit_message < commit_message.txt
+# Define the filename for the daily commit
+filename="daily_commit.txt"
 
-# Create a new file with the current date as the filename
-touch $(date +%Y-%m-%d).txt
+# Check if the file exists; if not, create it
+if [ ! -f "$filename" ]; then
+  touch "$filename"
+fi
 
-# Add the new file to the staging area
-git add .
+# Read the commit message from the text file
+read -r commit_message < "$filename"
+
+# Add the file to the staging area
+git add "$filename"
 
 # Commit with the custom commit message
 git commit -m "$commit_message"
