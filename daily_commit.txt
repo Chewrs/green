@@ -5,3 +5,4 @@ honeydew
 elderberry
 [{"quote": "Life in common among people who love each other is the ideal of happiness.", "author": "George Sand", "category": "happiness"}]
 [{"quote": "Every gift from a friend is a wish for your happiness.", "author": "Richard Bach", "category": "happiness"}]
+[{"quote": "I've made an odd discovery. Every time I talk to a savant I feel quite sure that happiness is no longer a possibility. Yet when I talk with my gardener, I'm convinced of the opposite.", "author": "Bertrand Russell", "category": "happiness"}]
