@@ -12,3 +12,4 @@ elderberry
 [{"quote": "While we are focusing on fear, worry, or hate, it is not possible for us to be experiencing happiness, enthusiasm or love.", "author": "Bo Bennett", "category": "happiness"}]
 [{"quote": "Our object in the construction of the state is the greatest happiness of the whole, and not that of any one class.", "author": "Plato", "category": "happiness"}]
 [{"quote": "To think the world therefore a general Bedlam, or place of madmen, and oneself a physician, is the most necessary point of present wisdom: an important imagination, and the way to happiness.", "author": "Thomas Traherne", "category": "happiness"}]
+[{"quote": "People say that money is not the key to happiness, but I always figured if you have enough money, you can have a key made.", "author": "Joan Rivers", "category": "happiness"}]
