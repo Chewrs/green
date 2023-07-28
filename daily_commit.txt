@@ -16,3 +16,4 @@ elderberry
 [{"quote": "No man chooses evil because it is evil he only mistakes it for happiness, the good he seeks.", "author": "Mary Wollstonecraft", "category": "happiness"}]
 [{"quote": "The greatest happiness is to know the source of unhappiness.", "author": "Fyodor Dostoevsky", "category": "happiness"}]
 [{"quote": "A table, a chair, a bowl of fruit and a violin what else does a man need to be happy?", "author": "Albert Einstein", "category": "happiness"}]
+[{"quote": "When you relinquish the desire to control your future, you can have more happiness.", "author": "Nicole Kidman", "category": "happiness"}]
