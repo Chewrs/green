@@ -20,3 +20,4 @@ hello
 [{"quote": "Could a government dare to set out with happiness as its goal? Now that there are accepted scientific proofs, it would be easy to audit the progress of national happiness annually, just as we monitor money and GDP.", "author": "Polly Toynbee", "category": "happiness"}]
 [{"quote": "It is not in the pursuit of happiness that we find fulfillment, it is in the happiness of pursuit.", "author": "Denis Waitley", "category": "happiness"}]
 [{"quote": "Anything you're good at contributes to happiness.", "author": "Bertrand Russell", "category": "happiness"}]
+[{"quote": "Happiness isn't something you experience it's something you remember.", "author": "Oscar Levant", "category": "happiness"}]
