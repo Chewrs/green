@@ -21,3 +21,4 @@ hello
 [{"quote": "It is not in the pursuit of happiness that we find fulfillment, it is in the happiness of pursuit.", "author": "Denis Waitley", "category": "happiness"}]
 [{"quote": "Anything you're good at contributes to happiness.", "author": "Bertrand Russell", "category": "happiness"}]
 [{"quote": "Happiness isn't something you experience it's something you remember.", "author": "Oscar Levant", "category": "happiness"}]
+[{"quote": "Money brings some happiness. But after a certain point, it just brings more money.", "author": "Neil Simon", "category": "happiness"}]
