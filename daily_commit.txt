@@ -22,3 +22,4 @@ hello
 [{"quote": "Anything you're good at contributes to happiness.", "author": "Bertrand Russell", "category": "happiness"}]
 [{"quote": "Happiness isn't something you experience it's something you remember.", "author": "Oscar Levant", "category": "happiness"}]
 [{"quote": "Money brings some happiness. But after a certain point, it just brings more money.", "author": "Neil Simon", "category": "happiness"}]
+[{"quote": "We've got people looking at our seamy side and our sad side a lot of the time because that's easier. It's much more difficult to make a film about happiness with lots of jokes in it.", "author": "Emma Thompson", "category": "happiness"}]
